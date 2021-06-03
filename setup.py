@@ -14,7 +14,7 @@ setuptools.setup(
         'requests==2.23.0',
         'selenium==3.141.0',
         'soupsieve==2.0',
-        'urllib3==1.25.9'
+        'urllib3==1.26.5'
     ],
     python_requires = '>=3',
     long_description=open('README.md').read(),
